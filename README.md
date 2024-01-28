@@ -4,3 +4,4 @@ Conponents requires-
 1. ESP32 module
 2. 4-Channel relay module
 3. Smartphone
+Download arduino ide code and open that code in arduino iot cloud. Remember to edit device id provided by the iot cloud for your project.
